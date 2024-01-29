@@ -1,0 +1,85 @@
+D:\FAKS\3 godina\1 semestar\Dizajniranje softvera\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\Projekat_slozi_sliku.exe.config
+D:\FAKS\3 godina\1 semestar\Dizajniranje softvera\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\Projekat_slozi_sliku.exe
+D:\FAKS\3 godina\1 semestar\Dizajniranje softvera\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\Projekat_slozi_sliku.pdb
+D:\FAKS\3 godina\1 semestar\Dizajniranje softvera\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.csproj.AssemblyReference.cache
+D:\FAKS\3 godina\1 semestar\Dizajniranje softvera\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.Form1.resources
+D:\FAKS\3 godina\1 semestar\Dizajniranje softvera\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.Properties.Resources.resources
+D:\FAKS\3 godina\1 semestar\Dizajniranje softvera\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.csproj.GenerateResource.cache
+D:\FAKS\3 godina\1 semestar\Dizajniranje softvera\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.csproj.CoreCompileInputs.cache
+D:\FAKS\3 godina\1 semestar\Dizajniranje softvera\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.exe
+D:\FAKS\3 godina\1 semestar\Dizajniranje softvera\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.pdb
+C:\Users\Snežana\Desktop\nesto\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\Projekat_slozi_sliku.exe.config
+C:\Users\Snežana\Desktop\nesto\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\Projekat_slozi_sliku.exe
+C:\Users\Snežana\Desktop\nesto\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\Projekat_slozi_sliku.pdb
+C:\Users\Snežana\Desktop\nesto\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.csproj.AssemblyReference.cache
+C:\Users\Snežana\Desktop\nesto\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.csproj.SuggestedBindingRedirects.cache
+C:\Users\Snežana\Desktop\nesto\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.Form1.resources
+C:\Users\Snežana\Desktop\nesto\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.Properties.Resources.resources
+C:\Users\Snežana\Desktop\nesto\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.csproj.GenerateResource.cache
+C:\Users\Snežana\Desktop\nesto\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.csproj.CoreCompileInputs.cache
+C:\Users\Snežana\Desktop\nesto\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.exe
+C:\Users\Snežana\Desktop\nesto\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.pdb
+C:\Users\Snežana\Desktop\nesto\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\EntityFramework.dll
+C:\Users\Snežana\Desktop\nesto\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Snežana\Desktop\nesto\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\System.Data.SQLite.dll
+C:\Users\Snežana\Desktop\nesto\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Snežana\Desktop\nesto\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Snežana\Desktop\nesto\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\EntityFramework.xml
+C:\Users\Snežana\Desktop\nesto\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Snežana\Desktop\nesto\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\System.Data.SQLite.xml
+C:\Users\Snežana\Desktop\nesto\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.csproj.CopyComplete
+C:\Users\Snežana\Desktop\nesto\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\Interop.WMPLib.dll
+C:\Users\Snežana\Desktop\nesto\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Snežana\Desktop\nesto\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Interop.WMPLib.dll
+C:\Users\Snežana\Desktop\nesto\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Snežana\Desktop\nesto\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.csproj.ResolveComReference.cache
+C:\Users\Snežana\Desktop\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\Projekat_slozi_sliku.exe.config
+C:\Users\Snežana\Desktop\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\Projekat_slozi_sliku.exe
+C:\Users\Snežana\Desktop\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\Projekat_slozi_sliku.pdb
+C:\Users\Snežana\Desktop\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\EntityFramework.dll
+C:\Users\Snežana\Desktop\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Snežana\Desktop\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\System.Data.SQLite.dll
+C:\Users\Snežana\Desktop\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Snežana\Desktop\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Snežana\Desktop\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\EntityFramework.xml
+C:\Users\Snežana\Desktop\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Snežana\Desktop\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\System.Data.SQLite.xml
+C:\Users\Snežana\Desktop\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\Interop.WMPLib.dll
+C:\Users\Snežana\Desktop\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Snežana\Desktop\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.csproj.AssemblyReference.cache
+C:\Users\Snežana\Desktop\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.csproj.SuggestedBindingRedirects.cache
+C:\Users\Snežana\Desktop\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Interop.WMPLib.dll
+C:\Users\Snežana\Desktop\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Snežana\Desktop\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.csproj.ResolveComReference.cache
+C:\Users\Snežana\Desktop\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.Form1.resources
+C:\Users\Snežana\Desktop\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.Properties.Resources.resources
+C:\Users\Snežana\Desktop\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.csproj.GenerateResource.cache
+C:\Users\Snežana\Desktop\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.csproj.CoreCompileInputs.cache
+C:\Users\Snežana\Desktop\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.csproj.CopyComplete
+C:\Users\Snežana\Desktop\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.exe
+C:\Users\Snežana\Desktop\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.pdb
+C:\Users\Snežana\Desktop\Stefan Petrovic 86-2017\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\Projekat_slozi_sliku.exe.config
+C:\Users\Snežana\Desktop\Stefan Petrovic 86-2017\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\Projekat_slozi_sliku.exe
+C:\Users\Snežana\Desktop\Stefan Petrovic 86-2017\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\Projekat_slozi_sliku.pdb
+C:\Users\Snežana\Desktop\Stefan Petrovic 86-2017\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\EntityFramework.dll
+C:\Users\Snežana\Desktop\Stefan Petrovic 86-2017\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Snežana\Desktop\Stefan Petrovic 86-2017\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\System.Data.SQLite.dll
+C:\Users\Snežana\Desktop\Stefan Petrovic 86-2017\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Snežana\Desktop\Stefan Petrovic 86-2017\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Snežana\Desktop\Stefan Petrovic 86-2017\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\EntityFramework.xml
+C:\Users\Snežana\Desktop\Stefan Petrovic 86-2017\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Snežana\Desktop\Stefan Petrovic 86-2017\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\System.Data.SQLite.xml
+C:\Users\Snežana\Desktop\Stefan Petrovic 86-2017\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\Interop.WMPLib.dll
+C:\Users\Snežana\Desktop\Stefan Petrovic 86-2017\Projekat_slozi_sliku\Projekat_slozi_sliku\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Snežana\Desktop\Stefan Petrovic 86-2017\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.csproj.AssemblyReference.cache
+C:\Users\Snežana\Desktop\Stefan Petrovic 86-2017\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.csproj.SuggestedBindingRedirects.cache
+C:\Users\Snežana\Desktop\Stefan Petrovic 86-2017\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Interop.WMPLib.dll
+C:\Users\Snežana\Desktop\Stefan Petrovic 86-2017\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Snežana\Desktop\Stefan Petrovic 86-2017\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.csproj.ResolveComReference.cache
+C:\Users\Snežana\Desktop\Stefan Petrovic 86-2017\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.Form1.resources
+C:\Users\Snežana\Desktop\Stefan Petrovic 86-2017\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.Properties.Resources.resources
+C:\Users\Snežana\Desktop\Stefan Petrovic 86-2017\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.csproj.GenerateResource.cache
+C:\Users\Snežana\Desktop\Stefan Petrovic 86-2017\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.csproj.CoreCompileInputs.cache
+C:\Users\Snežana\Desktop\Stefan Petrovic 86-2017\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.csproj.CopyComplete
+C:\Users\Snežana\Desktop\Stefan Petrovic 86-2017\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.exe
+C:\Users\Snežana\Desktop\Stefan Petrovic 86-2017\Projekat_slozi_sliku\Projekat_slozi_sliku\obj\Debug\Projekat_slozi_sliku.pdb
